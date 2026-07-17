@@ -1,0 +1,2 @@
+openai==<the version pip show printed>
+python-dotenv==1.0.1
